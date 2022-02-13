@@ -1,5 +1,5 @@
 ## Rubby 🐶
-Advanced WhatsApp bot written in JavaScript by Alison Parker
+Advanced WhatsApp bot written in Python by Alison Parker
 Bot in not yet published, so don't even think about it.
 ```python
 from your_brains import *
